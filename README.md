@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={seoyoungs}&show_icons=true&theme={theme})](https://github.com/{seoyoungs}/github-readme-stats)
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
