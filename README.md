@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![seoyoungs's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoungs&show_icons=true&theme=radical)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gkh459459)](https://solved.ac/gkh459459)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoungs&langs_count=8)](https://github.com/seoyoungs/github-readme-stats)
