@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**seoyoungs/seoyoungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <p>
   <em>
     저는 <b>뉴비</b> 학생 개발자입니다. 👨‍💻 <br>
@@ -13,6 +7,10 @@ Here are some ideas to get you started:
   </em>  
 </p>
 
+<!--
+**seoyoungs/seoyoungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
