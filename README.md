@@ -9,7 +9,9 @@
     Email : ka005740@gmail.com <br>
     Dacon : https://dacon.io/myprofile/416688/home/ <br>
     kaggle : https://www.kaggle.com/kimseoyoung <br>
-    
+    <br>
+    <br>
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   </em>  
 </p>
 
