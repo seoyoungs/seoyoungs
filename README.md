@@ -1,9 +1,15 @@
-### Hi there 👋
+### 👋 AI 개발자를 꿈꾸는 김서영입니다! 👋
 <p>
   <em>
     저는 <b>new</b> 학생 개발자입니다. 👨‍💻 <br>
     다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
-    재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
+    재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. <br>
+    <br>
+    개인계정 <br>
+    Email : ka005740@gmail.com <br>
+    Dacon : https://dacon.io/myprofile/416688/home/ <br>
+    kaggle : https://www.kaggle.com/kimseoyoung <br>
+    
   </em>  
 </p>
 
