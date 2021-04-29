@@ -31,8 +31,16 @@
     TensorFlow Developer Certificate <br>
     SAS BASE <br>
     MOS MASTER 2016 <br>
+    TOEIC SPEAKING lv.6 <br>
     <br>
-    🏅 Competition <br>
+    🌱 Competition <br>
+    Keggle - Tabular Playground Series(Apr 2021) - top 10% <br>
+    Dacon - 태양광 발전량 예측 AI 경진대회 - top 10% <br>
+    Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - top 27% <br>
+    <br>
+    🏅 AWARD <br>
+    
+    
     <br>
     <br>
   </em>  
