@@ -7,7 +7,7 @@
     <br>
     개인계정 <br>
     Email : ka005740@gmail.com <br>
-    Dacon : https://dacon.io/myprofile/416688/home/ <br>
+    Dacon : https://dacon.io/myprofile/416688/home/ , https://dacon.io/myprofile/419800/home/ <br>
     kaggle : https://www.kaggle.com/kimseoyoung <br>
     <br>
     language <br>
