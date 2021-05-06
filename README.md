@@ -21,6 +21,7 @@
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
     <br>Office<br>
     <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
@@ -34,7 +35,7 @@
     MOS MASTER 2016 <br>
     TOEIC SPEAKING lv.6 <br>
     <br>
-    🌱 Competition <br>
+    🏆 Competition <br>
     Lotte - Vision AI 경진대회 - top 8% (롯데 서류전형 통과) <br>
     Keggle - Tabular Playground Series(Apr 2021) - top 5% <br>
     Dacon - 태양광 발전량 예측 AI 경진대회 - top 10% <br>
@@ -43,6 +44,11 @@
     🏅 AWARD <br>
     대한 경영학회 춘계통합학술제 대회 대학생 부분 장려상 - R을 활용한 미세먼지 대책인 차량 2부제의 실효성 <br>
     덕성여자대학교 자연과학대학 학술제 우수상 - SPSS를 활용한 수면무호흡과 심혈관 질환의 관계
+    <br>
+    🌱 STUDY<br>
+    에이아이아카데미학원 머신러닝 딥러닝 기반 인공지능 고급개발자 과정 
+    덕성여자대학교 러닝투게터 - 사회과학자료분석(SPSS)<br>
+    덕성여자대학교 덕성튜터링 - 다변량 및 빅데이터분석(R)<br>
     <br>
     <br>
   </em>  
