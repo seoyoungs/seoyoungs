@@ -7,7 +7,7 @@
     재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. <br>
     <br>
     개인계정 <br>
-    Email : ka005740@gmail.com <br>
+    Email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ka005740@gmail.com)](mailto:ka005740@gmail.com)<br>
     Dacon : https://dacon.io/myprofile/416688/home/ , https://dacon.io/myprofile/419800/home/ <br>
     kaggle : https://www.kaggle.com/kimseoyoung <br>
     <br>
