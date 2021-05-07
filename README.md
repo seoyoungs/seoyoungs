@@ -1,4 +1,4 @@
-![텐서](https://user-images.githubusercontent.com/76426566/117410390-5185d500-af4d-11eb-8c51-593679e75572.jpg)
+
 ### 👋 AI 개발자 김서영입니다! 👋
 <p>
   <em>
@@ -36,7 +36,6 @@
     TensorFlow Developer Certificate <br>
     SAS BASE <br>
     MOS MASTER 2016 <br>
-
     TOEIC SPEAKING lv.6 <br>
     <br>
     🏆 Competition <br>
