@@ -31,8 +31,6 @@
     <br>
     <br>
     💻 Certification <br>
-    <br>
-    <br>
     TensorFlow Developer Certificate <br>
     SAS BASE <br>
     MOS MASTER 2016 <br>
