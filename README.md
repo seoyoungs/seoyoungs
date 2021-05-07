@@ -30,6 +30,8 @@
     <br>
     <br>
     💻 Certification <br>
+    ![image](https://user-images.githubusercontent.com/76426566/117409618-57c78180-af4c-11eb-95ed-cfaee191d630.png)<br>
+    <br>
     TensorFlow Developer Certificate <br>
     SAS BASE <br>
     MOS MASTER 2016 <br>
