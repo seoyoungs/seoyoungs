@@ -8,11 +8,6 @@
     <br>
     개인계정 
     <br>
-  </em>  
-</p>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ka005740@gmail.com)](mailto:ka005740@gmail.com)
-<p>
-  <em>
     Email : ka005740@gmail.com <br>
     Dacon : https://dacon.io/myprofile/416688/home/ , https://dacon.io/myprofile/419800/home/ <br>
     kaggle : https://www.kaggle.com/kimseoyoung <br>
