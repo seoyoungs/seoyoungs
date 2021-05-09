@@ -8,6 +8,11 @@
     <br>
     개인계정 
     <br>
+    </em>  
+</p>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ka005740@gmail.com)](mailto:ka005740@gmail.com)
+<p>
+    <em>
     Email : ka005740@gmail.com <br>
     Dacon : https://dacon.io/myprofile/416688/home/ , https://dacon.io/myprofile/419800/home/ <br>
     kaggle : https://www.kaggle.com/kimseoyoung <br>
@@ -72,7 +77,7 @@ Here are some ideas to get you started:
 -->
 
 ![seoyoungs's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoungs&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoungs&layout=compact)](https://github.com/seoyoungs/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gkh459459)](https://solved.ac/gkh459459)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoungs&layout=compact)](https://github.com/seoyoungs/github-readme-stats)
+
