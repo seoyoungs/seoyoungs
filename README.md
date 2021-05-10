@@ -53,6 +53,12 @@
     덕성여자대학교 덕성튜터링 - 다변량 및 빅데이터분석(R)<br>
     <br>
     <br>
+    <table><tr><td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=seoyoungs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td><td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoungs&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td></tr></table>
+    
   </em>  
 </p>
 
