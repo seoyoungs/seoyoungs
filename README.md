@@ -1,18 +1,18 @@
 
 ### 👋 AI 개발자 김서영입니다! 👋
-<p>
-  <em>
-    저는 <b>new</b> Tensorflow 개발자입니다. 👨‍💻 <br>
+
+저는 <b>new</b> Tensorflow 개발자입니다. 👨‍💻 <br>
     다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
     재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. <br>
     <br>
-    개인계정 (Contact)
-    <br>
-    Email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ka005740@gmail.com)](mailto:ka005740@gmail.com)<br>
-    Dacon : https://dacon.io/myprofile/416688/home/ , https://dacon.io/myprofile/419800/home/ <br>
-    kaggle : https://www.kaggle.com/kimseoyoung <br>
-    <br>
-    <p>
+    개인계정 
+    
+Email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ka005740@gmail.com)](mailto:ka005740@gmail.com)
+<br>
+Dacon : https://dacon.io/myprofile/416688/home/ , https://dacon.io/myprofile/419800/home/ <br>
+kaggle : https://www.kaggle.com/kimseoyoung <br>
+
+<p>
   <em>
     language <br>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
