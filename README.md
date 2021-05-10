@@ -12,6 +12,8 @@
     Dacon : https://dacon.io/myprofile/416688/home/ , https://dacon.io/myprofile/419800/home/ <br>
     kaggle : https://www.kaggle.com/kimseoyoung <br>
     <br>
+    <p>
+  <em>
     language <br>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
