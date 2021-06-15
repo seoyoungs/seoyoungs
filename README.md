@@ -1,8 +1,7 @@
 
 ### 👋 HI! AI Developer 김서영! 👋
-    <br>
-    Contact 
-    
+<br>
+    Contact <br>
 Email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ka005740@gmail.com)](mailto:ka005740@gmail.com)
 <br>
 Dacon : [![Mendeley](https://img.shields.io/badge/Dacon1-151F5D?style=flat-square&logo=Mendeley&logoColor=white&link=https://dacon.io/myprofile/416688/home/)](https://dacon.io/myprofile/416688/home/), [![Mendeley](https://img.shields.io/badge/Dacon2-151F5D?style=flat-square&logo=Mendeley&logoColor=white&link=https://dacon.io/myprofile/419800/home/)](https://dacon.io/myprofile/419800/home/)<br>
