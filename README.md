@@ -1,11 +1,7 @@
 
-### 👋 AI 개발자 김서영입니다! 👋
-
-저는 <b>new</b> Tensorflow, Pytorch 개발자입니다. 👨‍💻 <br>
-    다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
-    재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. <br>
+### 👋 HI! AI Developer 김서영! 👋
     <br>
-    개인계정 
+    Contact 
     
 Email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ka005740@gmail.com)](mailto:ka005740@gmail.com)
 <br>
@@ -32,28 +28,6 @@ kaggle : [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-s
     <img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
     <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <br>
-    <br>
-    💻 Certification <br>
-    TensorFlow Developer Certificate <br>
-    SAS BASE <br>
-    MOS MASTER 2016 <br>
-    TOEIC SPEAKING lv.6 <br>
-    <br>
-    🏆 Competition <br>
-    Lotte - Vision AI 경진대회 - top 8% (롯데 서류전형 통과) <br>
-    Keggle - Tabular Playground Series(Apr 2021) - top 5% <br>
-    Dacon - 태양광 발전량 예측 AI 경진대회 - top 10% <br>
-    Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - top 27% <br>
-    <br>
-    🏅 AWARD <br>
-    대한 경영학회 춘계통합학술제 대회 대학생 부분 장려상 - R을 활용한 미세먼지 대책인 차량 2부제의 실효성 <br>
-    덕성여자대학교 자연과학대학 학술제 우수상 - SPSS를 활용한 수면무호흡과 심혈관 질환의 관계 <br>
-    <br>
-    📖 STUDY<br>
-    에이아이아카데미학원 머신러닝 딥러닝 기반 인공지능 고급개발자 과정 <br>
-    덕성여자대학교 덕성튜터링 - 다변량 및 빅데이터분석(R)<br>
-    덕성여자대학교 러닝투게터 - 사회과학자료분석(SPSS)<br>
     <br>
     <br>
     <table><tr><td valign="top" width="50%">
