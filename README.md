@@ -39,6 +39,10 @@ kaggle : [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-s
     <img src="https://github-readme-stats.vercel.app/api?username=seoyoungs&show_icons=true&theme=radical" />
     </td><td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoungs&hide_border=true&layout=compact" align="left" style="width: 100%" />
+     <br>
+     <br>
+     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyoungs&count_bg=%23DB28A5&title_bg=%23555555&icon=&icon_color=%2330DEED&title=hits&edge_flat=false"/></a>
+     <br>
     </td></tr></table>
     
   </em>  
