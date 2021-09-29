@@ -58,6 +58,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gkh459459)](https://solved.ac/gkh459459)
 
 
