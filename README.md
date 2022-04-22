@@ -35,10 +35,12 @@ kaggle : [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-s
     <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <br>
     <br>
+   <!--
     <table><tr><td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api?username=seoyoungs&show_icons=true&theme=radical" />
     </td><td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoungs&hide_border=true&layout=compact" align="left" style="width: 100%" />
+-->
     </td></tr></table>
   </em>  
 </p>
